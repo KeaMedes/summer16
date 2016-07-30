@@ -27,8 +27,6 @@
 ## [nsdi 16](https://www.usenix.org/conference/nsdi16/technical-sessions)
 1. `Exploring Cross-Application Cellular Traffic Optimization with Baidu TrafficGuard`
 
-[](## [www 16](http://www2016.net/proceedings/forms/proceedings.htm)
-
 # Topics
 
 ## Mobible Web
