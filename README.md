@@ -29,8 +29,13 @@
 
 # Topics
 
-## Mobible Web
+## Mobile Web
 1. `WebPerf: Evaluating What-If Scenarios for Cloud-hosted Web Applications`
 2. `CrowdSurf: Empowering Transparency in the Web`
 3. `A Case for Faster Mobile Web in Cellular IPv6 Networks`
 4. `An Anatomy of Mobile Web Performance over Multipath TCP`
+
+## Mobile Network Traffic
+1. `Exploring Cross-Application Cellular Traffic Optimization with Baidu TrafficGuard`
+2. `Characterizing and Improving WiFi Latency in Large-Scale Operational Networks`
+3. `MobileInsight: Extracting and Analyzing Cellular Network Information on Smartphones`
